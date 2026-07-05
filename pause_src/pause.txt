@@ -1,0 +1,66 @@
+B R E A K   T H R U
+
+Kyohkoh-Toppa   //   1986
+
+
+==========================
+ DATA EAST  x  MiSTer FPGA
+==========================
+
+
+The road ahead is blocked.
+The enemy is dug in.
+The only way out is THROUGH.
+
+
+Floor it across burning sand,
+busted bridges and impossible
+jumps. Punch a hole clean
+through the enemy line and
+bring the stolen fighter home.
+
+
+ > Blast forward
+ > Dodge everything
+ > Grab the upgrades
+ > Keep the wheels turning
+
+
+---  THE MACHINE  ---
+
+ Title  :  Break Thru
+ Maker  :  Data East, 1986
+ CPUs   :  dual MC6809
+ Sound  :  YM2203 + YM3526
+ Target :  MiSTer FPGA core
+
+
+---  RESPECT  ---
+
+ wxwl         hkamania
+ atrac17      pr4mod
+ Darren O     FPGAzumSpass
+ Wickerwaka   Jotego
+ Blackwine    NullObject
+ SRG320       Kintrix
+
+
+---  GREETINGS  ---
+
+ To the MiSTer FPGA community:
+ preservation crews, core devs,
+ testers, doc writers, hardware
+ tinkerers, scanline obsessives,
+ CRT loyalists, JAMMA hoarders...
+
+ and everyone who still hears the
+ attract loop in their sleep.
+
+ This one is for you.
+
+
+==========================
+ INSERT COIN
+ PRESS START
+ BREAK THRU
+==========================
